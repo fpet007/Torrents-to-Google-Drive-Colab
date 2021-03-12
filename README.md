@@ -1,4 +1,4 @@
-# -Torrents-to-Google-Drive-Collab traduit en Français
+# Torrents-to-Google-Drive-Collab traduit en Français
 [![Generic badge](https://img.shields.io/badge/Author-fpet007-green)](https://shields.io/)
 
 Il s'agit d'un ordinateur portable Google Colab qui peut télécharger des torrents sur Google Drive.
